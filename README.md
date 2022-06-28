@@ -1,6 +1,11 @@
 # StudyTCP-IP
 TCP/IP 학습 레포지토리
 
+# 사용프로그램
+- VMware Workstation 16 Player
+- Ubuntu 64-bit
+- PuTTY
+
 <br>
 
 # Day01
